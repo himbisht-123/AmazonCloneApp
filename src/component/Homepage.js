@@ -13,7 +13,7 @@ const  Homepage=()=>{
            <div className="home-row">
             <Product 
             id="123456"
-            title='The Girl in Room 105-(By Chetan Bhagat)'
+            title='The Girl in Room 105- which is followed by One Arranged Murder its a Sequel(By Chetan Bhagat)'
             price={'29.99'}
             image="https://m.media-amazon.com/images/I/51gJGVE+tsL._AC_UY218_.jpg"
             rating={4}/>
